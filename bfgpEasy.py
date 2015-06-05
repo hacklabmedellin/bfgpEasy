@@ -11,7 +11,7 @@ path = "/cms/index.php/Admin"
 #host = "192.168.1.64"
 #path = "/gpEasy/index.php/Admin"
 
-pass_file = "pass.txt"
+pass_file = "claves.txt"
 user_file = "users.txt"
 
 def get_nonce(host,path):
