@@ -8,6 +8,7 @@ intento de autenticación, la implementación del CMS lo cambia cada 10 minutos.
 
 ###Ejemplo de uso:
 
+```python
 > python bfgpEasy.py
 [nonce]:b27d72935f
 Testing Usuario: admin...
@@ -22,6 +23,7 @@ Testing Usuario: gpeasy...
 Testing Usuario: gpleasy...
 Testing Usuario: login...
 >
+```
 
 Este script se desarrolló durante la solución de un reto propuesto por @4v4t4r en la comunidad Hacklab-Medellín (http://www.hacklabmedellin.org/) - meetup.com/HackLab-Medellin/
 
