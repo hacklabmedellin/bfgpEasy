@@ -32,5 +32,6 @@ Contribuciones bienvenidas.
 TODO:
 
 *Bypass el bloqueo por intentos
+
 *Buscar otra forma de autenticar el usuario (hashes?)
 
